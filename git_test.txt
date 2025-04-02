@@ -1,4 +1,6 @@
-this is a test 
-git test file for first time user of git work
+This is a test 
+git test file for first-time user of git work
 
 another test file for git.
+
+Added another line in the remote server
