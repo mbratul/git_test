@@ -1,6 +1,30 @@
-This is a test 
-git test file for first-time user of git work
+********** All Kinds of git and GitHub command **********
 
-another test file for git.
+******** First time git command ****
+git init 
 
-Added another line in the remote server
+******** Add a file git command ****
+git add .
+
+git commit -m "write a details message for your file "
+
+git remote (remote url link from github)
+
+git push -u origin mastar
+
+
+******** Update all file in github command ****
+
+git add .
+
+git commit -m "message about the change you did in this file"
+
+git push -u origin master
+
+******** Update a single file in github command ****
+
+git add filename
+
+git commit -m "message about the change you did in this file"
+
+git push -u origin master
